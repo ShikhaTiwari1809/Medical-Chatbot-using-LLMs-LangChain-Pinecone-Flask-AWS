@@ -21,8 +21,13 @@ rad.json
 #Test results file
 TestResults.xml
 
+.DS_Store
+__pycache__/
+*.pyc
+
 # Environments
 .env
+.env.*
 .envrc
 .venv
 env/
